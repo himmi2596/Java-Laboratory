@@ -8,7 +8,6 @@
  *  
  *  @see <a href="https://www.facebook.com/"> <b> Facebook </b> </a>
  *  @see <a href="C:\Users\vk027\Documents\wed develop\index.html"> web designing </a>
- *  
  */
 public class JavaDoc 
 {
