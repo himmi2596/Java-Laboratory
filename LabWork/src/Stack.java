@@ -76,9 +76,9 @@ public class Stack
 				obj.topValue();
 				break;
 			case 5:
+				sc.close();
 				System.exit(0);
 			}
-			sc.close();
 		}
 	}
 }
