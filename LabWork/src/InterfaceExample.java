@@ -59,7 +59,7 @@ public class InterfaceExample implements Queue
 		InterfaceExample obj=new InterfaceExample();
 		while(true)
 		{
-			System.out.println("\nEnter Your Choice: 1.Enqueue 2.Dequeue 3.Display 4.Value at Front 5.Exit");
+			System.out.println("\n Enter Your Choice: 1.Enqueue 2.Dequeue 3.Display 4.Value at Front 5.Exit");
 			int a=sc.nextInt();
 			switch(a)
 			{
