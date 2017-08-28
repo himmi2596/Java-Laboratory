@@ -78,6 +78,7 @@ public class Stack
 			case 5:
 				System.exit(0);
 			}
+			sc.close();
 		}
 	}
 }
